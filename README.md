@@ -1,0 +1,2 @@
+# MLOPS_HW2_Automatic_WebServer_Deployment_with_Docker_Jenkins_Github_Integration
+The Project is to automatically deploy a web server once the developer commits the code then the jenkins job will automatically test the code and if it is success then the page will be deployed in a webserver if not error message will be sent to developer via email also if any server fails then a job will automatically deploy another webserver
